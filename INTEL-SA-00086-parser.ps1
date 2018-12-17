@@ -54,6 +54,4 @@ foreach($file in $ResultFiles) {
 $usedRange = $WorkSheet.UsedRange                                                                                              
 $usedRange.EntireColumn.AutoFit() | Out-Null
 $WorkBook.RefreshAll()
-#$workbook.SaveAs("D:\MyExcel.xlsx")
-#$excel.Quit()
 Read-Host -Prompt "Press Enter to continue"
