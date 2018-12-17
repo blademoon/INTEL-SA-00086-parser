@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<System>
+  <Application_Name>INTEL-SA-00086 Detection Tool</Application_Name>
+  <Application_Version>1.1.169.0</Application_Version>
+  <Computer_Name>PC-02</Computer_Name>
+  <Scan_Date>05.04.2018 11:30:57</Scan_Date>
+  <Hardware_Inventory>
+    <Computer_Manufacturer>Hewlett-Packard</Computer_Manufacturer>
+    <Computer_Model>HP EliteDesk 800 G1 SFF</Computer_Model>
+    <OperatingSystem>Майкрософт Windows 10 Pro для рабочих станций</OperatingSystem>
+    <Processor>Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz</Processor>
+  </Hardware_Inventory>
+  <ME_Firmware_Information>
+    <Driver_Installed>True</Driver_Installed>
+    <FW_Version>9.0.31.1487</FW_Version>
+    <SVN>1</SVN>
+    <Platform>Intel(R) ME</Platform>
+  </ME_Firmware_Information>
+  <System_Status>
+    <System_Risk>This system is vulnerable.</System_Risk>
+    <System_Risk_Value>100</System_Risk_Value>
+    <System_Exposure />
+  </System_Status>
+</System>
